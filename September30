@@ -1,0 +1,25 @@
+September 30th 2018
+GIT, GITHUB, and COMMAND LINE
+
+https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application?ref=lnav
+https://www.theodinproject.com/courses/web-development-101/lessons/command-line-basics
+http://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course
+https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/navigation-generalizations?action=resume_content_item
+https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/git-generalizations?action=resume_content_item
+
+Learned:
+
+How to navigate and manipulate directories and files using the cmd
+	-commands like cd, pwd, man, sudo, mkdir, touch, etc.
+
+How to install and or update all necessary packages to run Ruby through the cmd
+How to install and or update all necessary packages to run Git and Github through the cmd
+How to install and or update all necessary packages to run Heroku through the cmd
+
+How to create a repository through github.com, create a branch, commit a change, make a pull request, and merge a request
+
+How to use git commands to create working directories, staging areas, and commit to repositories.
+
+
+https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work
+https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be&t=46s
